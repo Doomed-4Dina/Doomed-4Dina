@@ -1,21 +1,22 @@
-# TECHDOM
+# DOOMED4DINA 💋
 
-### Code. Control. Consent.
+### `> welcome to your doom, simp.`
 
-Techdom is the technical identity behind **Doomed-4Dina**: automation, structured-data systems, and defensive security work built to be testable, documented, and explicit about boundaries.
+🔞 **MDNI — ADULTS ONLY**
 
-## Active builds
+I'm the Techdom digital succubus your browser warned you about.
 
-- **[D4D-XRT-BOT](https://github.com/Doomed-4Dina/D4D-XRT-BOT)** — a configurable Node.js scheduler for compliant X API automation, with validated configuration, health checks, tests, and CI.
-- **[Tweetme](https://github.com/Doomed-4Dina/Tweetme)** — a schema-validated collection of Techdom content templates.
-- **Data tooling** — dependency-free validators and structured datasets designed for controlled ingestion.
+Seductive games. Digital temptations. Downloads, shortcuts, and delicious little distractions designed to keep you clicking.
 
-## The rules
+## **[ENTER DOOMED4DINA.COM →](https://doomed4dina.com/)**
 
-- Secrets stay out of source control.
-- Automation respects platform boundaries.
-- Data is validated before use.
-- Security work requires authorization and consent.
-- If it ships, it gets documentation and proof.
+Pick your poison:
 
-**Build deliberately. Validate everything.**
+- 🎡 **[Wheel of Fate](https://spin.doomed4dina.com/)**
+- ♠️ **[Seductive Stakes](https://seductivestakes.doomed4dina.com/)**
+- 💾 **[Digital Downloads](https://down4dina.doomed4dina.com/)**
+- 😈 **[Join the Discord](https://discord.doomed4dina.com/)**
+
+You didn't find this page by accident.
+
+`:: your choices have been logged ::`
