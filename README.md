@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Dina
 
-<!--
-**Doomed-4Dina/Doomed-4Dina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small Node.js automation tools, structured-data utilities, and defensive security experiments.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [D4D-XRT-BOT](https://github.com/Doomed-4Dina/D4D-XRT-BOT)
+
+A configurable Node.js scheduler for platform-compliant X API automation, with environment-based configuration, health checks, tests, and continuous integration.
+
+## What I care about
+
+- Clear documentation and reproducible setup
+- Keeping credentials out of source control
+- Automated tests and data validation
+- Ethical, consent-based security research
+
+## Current focus
+
+I'm polishing my public projects, adding CI and validation, and turning small experiments into maintainable tools.
+
